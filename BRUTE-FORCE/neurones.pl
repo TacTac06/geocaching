@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-# Programme de résolution de la cache Electrons (GC67627)
+# Programme de résolution de cache en brute force
 # JLL Juillet 2017
 # Methode brute force : on essaye toutes les combinaisons !
 
